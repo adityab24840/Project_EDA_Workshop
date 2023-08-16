@@ -1,2 +1,2 @@
-# Project_EDA_Workshops 
+# Hands on EDA workshop
  
