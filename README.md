@@ -1,2 +1,2 @@
-# Hands on EDA workshop
+# Hands on EDA workshop on 16 August
  
